@@ -1,0 +1,9 @@
+data/
+artifacts/
+archive/
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+*.pkl
+*.zip
+*.parquet
